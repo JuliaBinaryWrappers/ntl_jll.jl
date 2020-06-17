@@ -1,0 +1,11 @@
+name = "ntl_jll"
+uuid = "7494e58d-996d-52b4-b7cf-f5d9dde4b521"
+version = "11.4.3+0"
+
+[deps]
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+GMP_jll = "781609d7-10c4-51f6-84f2-b8444358ff6d"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+
+[compat]
+julia = "1.0"

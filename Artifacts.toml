@@ -1,0 +1,60 @@
+[[ntl]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "903113364034645c656ed1ab330a85160cf985c5"
+libc = "glibc"
+os = "linux"
+
+    [[ntl.download]]
+    sha256 = "6cb0342afd03ce741029036b9f8175b30b730736f69edc462a32ac16a2e62a64"
+    url = "https://github.com/JuliaBinaryWrappers/ntl_jll.jl/releases/download/ntl-v11.4.3+0/ntl.v11.4.3.i686-linux-gnu-cxx03.tar.gz"
+[[ntl]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5ff7365ceab1e0e30854f0ef8787b0da337b5904"
+libc = "glibc"
+os = "linux"
+
+    [[ntl.download]]
+    sha256 = "5584d5f0b63c4dfbdc939b4c68950aea8d80b01294d205819eb6902daff0a698"
+    url = "https://github.com/JuliaBinaryWrappers/ntl_jll.jl/releases/download/ntl-v11.4.3+0/ntl.v11.4.3.i686-linux-gnu-cxx11.tar.gz"
+[[ntl]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "40f655f37c4c6e9da0b942bd85c5501d405f1ff7"
+libc = "glibc"
+os = "linux"
+
+    [[ntl.download]]
+    sha256 = "9b0db80dd388f9f580f714f7b5faf468b37c2204222a9544dcda283fb669034d"
+    url = "https://github.com/JuliaBinaryWrappers/ntl_jll.jl/releases/download/ntl-v11.4.3+0/ntl.v11.4.3.x86_64-linux-gnu-cxx03.tar.gz"
+[[ntl]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "cf142d765b390f77f615908e0562c6d3f8822a2c"
+libc = "glibc"
+os = "linux"
+
+    [[ntl.download]]
+    sha256 = "36226213bd42d685263b2229b24b8c33a78f77ad3cbec75ff8be194f1962c30b"
+    url = "https://github.com/JuliaBinaryWrappers/ntl_jll.jl/releases/download/ntl-v11.4.3+0/ntl.v11.4.3.x86_64-linux-gnu-cxx11.tar.gz"
+[[ntl]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "7056cc1a58409619be0b781fd9c251b9463bf8d9"
+libc = "musl"
+os = "linux"
+
+    [[ntl.download]]
+    sha256 = "527a044d36c2baf0ff2c764b9f85d6c0cb2056d350044d0d52318817f918badc"
+    url = "https://github.com/JuliaBinaryWrappers/ntl_jll.jl/releases/download/ntl-v11.4.3+0/ntl.v11.4.3.x86_64-linux-musl-cxx03.tar.gz"
+[[ntl]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "60a86225241859877b11d3fc83fc772939077fcb"
+libc = "musl"
+os = "linux"
+
+    [[ntl.download]]
+    sha256 = "068410abb55a5fe40862038760f6131366a97b012fba6959451d8f163ec6e493"
+    url = "https://github.com/JuliaBinaryWrappers/ntl_jll.jl/releases/download/ntl-v11.4.3+0/ntl.v11.4.3.x86_64-linux-musl-cxx11.tar.gz"
