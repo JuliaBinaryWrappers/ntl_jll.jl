@@ -1,60 +1,60 @@
 [[ntl]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "903113364034645c656ed1ab330a85160cf985c5"
+git-tree-sha1 = "58ee3bf5eb07fa935fe9ef4a2806e05c14822639"
 libc = "glibc"
 os = "linux"
 
     [[ntl.download]]
-    sha256 = "6cb0342afd03ce741029036b9f8175b30b730736f69edc462a32ac16a2e62a64"
-    url = "https://github.com/JuliaBinaryWrappers/ntl_jll.jl/releases/download/ntl-v11.4.3+0/ntl.v11.4.3.i686-linux-gnu-cxx03.tar.gz"
+    sha256 = "640a841081ac02079bd36695afa3aefca2e2ada325bdf39beff961921417fb84"
+    url = "https://github.com/JuliaBinaryWrappers/ntl_jll.jl/releases/download/ntl-v11.5.1+0/ntl.v11.5.1.i686-linux-gnu-cxx03.tar.gz"
 [[ntl]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "5ff7365ceab1e0e30854f0ef8787b0da337b5904"
+git-tree-sha1 = "242c57d75b6c090b61728b95eb8bd217ce10faff"
 libc = "glibc"
 os = "linux"
 
     [[ntl.download]]
-    sha256 = "5584d5f0b63c4dfbdc939b4c68950aea8d80b01294d205819eb6902daff0a698"
-    url = "https://github.com/JuliaBinaryWrappers/ntl_jll.jl/releases/download/ntl-v11.4.3+0/ntl.v11.4.3.i686-linux-gnu-cxx11.tar.gz"
+    sha256 = "8f41c0ba4ce4e0dfac6014e0e18352b241571d02794f35136b9c22cb56271c7c"
+    url = "https://github.com/JuliaBinaryWrappers/ntl_jll.jl/releases/download/ntl-v11.5.1+0/ntl.v11.5.1.i686-linux-gnu-cxx11.tar.gz"
 [[ntl]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "40f655f37c4c6e9da0b942bd85c5501d405f1ff7"
+git-tree-sha1 = "effcf7c1792bf3db5eb3407e604cecca7ab26e40"
 libc = "glibc"
 os = "linux"
 
     [[ntl.download]]
-    sha256 = "9b0db80dd388f9f580f714f7b5faf468b37c2204222a9544dcda283fb669034d"
-    url = "https://github.com/JuliaBinaryWrappers/ntl_jll.jl/releases/download/ntl-v11.4.3+0/ntl.v11.4.3.x86_64-linux-gnu-cxx03.tar.gz"
+    sha256 = "428a3ddd28c8e51592e15d6fc2ef1916bca55366b545d6268e33df8bf432b702"
+    url = "https://github.com/JuliaBinaryWrappers/ntl_jll.jl/releases/download/ntl-v11.5.1+0/ntl.v11.5.1.x86_64-linux-gnu-cxx03.tar.gz"
 [[ntl]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "cf142d765b390f77f615908e0562c6d3f8822a2c"
+git-tree-sha1 = "a5cc25dc20516bfc353738fb2c25f1f8fa4627db"
 libc = "glibc"
 os = "linux"
 
     [[ntl.download]]
-    sha256 = "36226213bd42d685263b2229b24b8c33a78f77ad3cbec75ff8be194f1962c30b"
-    url = "https://github.com/JuliaBinaryWrappers/ntl_jll.jl/releases/download/ntl-v11.4.3+0/ntl.v11.4.3.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "649a66e1e543548c8b213f2d58bd99074bafad718fc3b7320f8e91929876fe75"
+    url = "https://github.com/JuliaBinaryWrappers/ntl_jll.jl/releases/download/ntl-v11.5.1+0/ntl.v11.5.1.x86_64-linux-gnu-cxx11.tar.gz"
 [[ntl]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "7056cc1a58409619be0b781fd9c251b9463bf8d9"
+git-tree-sha1 = "b9d3776576d6416625249651e93e046846a7c1fb"
 libc = "musl"
 os = "linux"
 
     [[ntl.download]]
-    sha256 = "527a044d36c2baf0ff2c764b9f85d6c0cb2056d350044d0d52318817f918badc"
-    url = "https://github.com/JuliaBinaryWrappers/ntl_jll.jl/releases/download/ntl-v11.4.3+0/ntl.v11.4.3.x86_64-linux-musl-cxx03.tar.gz"
+    sha256 = "785b7dbc85d93c468dcebff69e831c9fe35a55a20ab3178bce9f3617b15c7c93"
+    url = "https://github.com/JuliaBinaryWrappers/ntl_jll.jl/releases/download/ntl-v11.5.1+0/ntl.v11.5.1.x86_64-linux-musl-cxx03.tar.gz"
 [[ntl]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "60a86225241859877b11d3fc83fc772939077fcb"
+git-tree-sha1 = "d707888f1288c6003695c7bd0b8e47b76b2ac2ab"
 libc = "musl"
 os = "linux"
 
     [[ntl.download]]
-    sha256 = "068410abb55a5fe40862038760f6131366a97b012fba6959451d8f163ec6e493"
-    url = "https://github.com/JuliaBinaryWrappers/ntl_jll.jl/releases/download/ntl-v11.4.3+0/ntl.v11.4.3.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "79eb47f0c190c7a5fa5b039f50357c390978b66729e3da9517a8e670ce55aba2"
+    url = "https://github.com/JuliaBinaryWrappers/ntl_jll.jl/releases/download/ntl-v11.5.1+0/ntl.v11.5.1.x86_64-linux-musl-cxx11.tar.gz"
